@@ -1,0 +1,17 @@
+[project]
+name = "simple-snake"
+version = "1.0.0"
+description = "A simple terminal snake game using Textual."
+readme = "README.md"
+requires-python = ">=3.14"
+
+authors = [
+    { name = "Melike Vurucu", email = "contact+pyproj@melikechan.me" },
+]
+
+dependencies = [
+    "textual",
+]
+
+[project.urls]
+Repository = "https://github.com/melikechan/simple-snake"
