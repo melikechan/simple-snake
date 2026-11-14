@@ -1,5 +1,8 @@
 # Simple Snake
 
+> [!WARNING]
+> This project is **still WIP** and **far from being playable.**
+
 You probably know the [_snake game_](<https://en.wikipedia.org/wiki/Snake_(1998_video_game)>) in Nokia phones.
 
 **Simple Snake** is a version of the _snake game_ including some game modifiers, written in Python, and runs on your **terminal**.
